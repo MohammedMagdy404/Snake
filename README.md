@@ -6,13 +6,16 @@ The code is well commented, if you have any questions or want to continue this p
 
 ### How it looks:
 
+![alt tag](https://github.com/MohammedMagdy404/Snake/blob/main/Screenshot%202022-12-24%20131317.jpg)
+
 ### How to run the project:
 
 #### Requirements:
-* Java runtime installed
+
+- Java runtime installed
 
 #### How to play the game:
 
-* Just download the SnakeGame.exe file
-* Run it 
-* Start playing with the arrows keys. 
+- Just download the SnakeGame.exe file
+- Run it
+- Start playing with the arrows keys.
